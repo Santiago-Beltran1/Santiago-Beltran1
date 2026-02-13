@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Qué mira sapo</h1>
 
-<!--
-**Santiago-Beltran1/Santiago-Beltran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/d7/30/54d7302c08408339574b95b9a911c51a.gif" width="800">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Desarrollador Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥵 Apasionado del Clash Royale  
+📍 🇨🇴 Colombia 
+" Mami, prenda la radio, encienda la tele🗣🗣🗣🗣 " 
+🤑 En proceso hacia la Ing. de Sistemas brrr
+
+---
+
+
+
