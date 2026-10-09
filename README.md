@@ -1,3 +1,4 @@
+<div align="center">
 # Hola soy Santiago Beltran 
 
 ## Desarrollador & aprendiz SENA
@@ -55,3 +56,4 @@ Plataforma colaborativa diseñada para optimizar la distribución de medicamento
 
 - **Correo:** pedrazasantiago837@gmail.com
 - **Teléfono:** +57-3247153645
+</div>
