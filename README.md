@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hola soy Santiago Beltran 
 
 ## Desarrollador & aprendiz SENA
@@ -48,12 +49,13 @@
 #### [Pharmony — Sistema de Gestión de Medicamentos](https://github.com/zSatorii/Pharmony.git)
 
 Plataforma colaborativa diseñada para optimizar la distribución de medicamentos en EPS.
-- **Mi aporte:** Diseñé e implementé la arquitectura back/front, manejando la lógica de inventarios, sedes su sistema de turnos tanto en experiencia del usuario normal como de administradores de las EPS, apoyé la integración en tiempo real con Firebase y la comunicación con el cliente web, además de la creación de endpoints seguros y validación de flujos mediante pruebas automatizadas y testeo con uso de Selenium.
+**Mi aporte:** Diseñé e implementé la arquitectura back/front, manejando la lógica de inventarios, sedes su sistema de turnos tanto en experiencia del usuario normal como de administradores de las EPS, apoyé la integración en tiempo real con Firebase y la comunicación con el cliente web, además de la creación de endpoints seguros y validación de flujos mediante pruebas automatizadas y testeo con uso de Selenium.
 
 ---
 
 ### Trabajo y Contacto
 
-- **Correo:** pedrazasantiago837@gmail.com
-- **Teléfono:** +57-3247153645
+**Correo:** pedrazasantiago837@gmail.com
+**Teléfono:** +57-3247153645
+
 </div>
