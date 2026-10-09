@@ -4,8 +4,6 @@
 
 ## Desarrollador & aprendiz SENA
 
----
-
 ### Lo que hago y utilizo
 
 #### Backend & APIs
