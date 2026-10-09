@@ -28,21 +28,23 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-#### DevOps
+#### DevOps, Infraestructura y diseño
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23000000.svg?style=for-the-badge&logo=obs-studio&logoColor=white)
 
 ---
 
 ### Proyecto Destacado
 
 #### [Pharmony — Sistema de Gestión de Medicamentos](https://github.com/zSatorii/Pharmony.git)
-
-![Demostración de Pharmony](https://link-a-tu-gif-o-captura-del-proyecto.gif)
 
 Plataforma colaborativa diseñada para optimizar la distribución de medicamentos en EPS.
 - **Mi aporte:** Diseñé e implementé la arquitectura back/front, manejando la lógica de inventarios, sedes su sistema de turnos tanto en experiencia del usuario normal como de administradores de las EPS, apoyé la integración en tiempo real con Firebase y la comunicación con el cliente web, además de la creación de endpoints seguros y validación de flujos mediante pruebas automatizadas y testeo con uso de Selenium.
@@ -51,5 +53,5 @@ Plataforma colaborativa diseñada para optimizar la distribución de medicamento
 
 ### Trabajo y Contacto
 
-- **Correo:** [pedrazasantiago837@gmail.com]
+- **Correo:** pedrazasantiago837@gmail.com
 - **Teléfono:** +57-3247153645
